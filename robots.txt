@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://bygalter-5e78c.web.app/sitemap.xml
