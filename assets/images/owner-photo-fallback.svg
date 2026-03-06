@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1400" role="img" aria-label="EM Finance">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1a25"/>
+      <stop offset="100%" stop-color="#102536"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.75" cy="0.12" r="0.6">
+      <stop offset="0%" stop-color="#f0d987" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#f0d987" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1400" rx="36" fill="url(#bg)"/>
+  <rect width="900" height="1400" rx="36" fill="url(#glow)"/>
+  <circle cx="450" cy="500" r="170" fill="#1a3650"/>
+  <rect x="220" y="700" width="460" height="430" rx="220" fill="#1a3650"/>
+  <text x="450" y="1260" text-anchor="middle" fill="#d2c79a" font-size="40" font-family="Manrope, Arial, sans-serif" font-weight="600">
+    Фото специалиста EM Finance
+  </text>
+</svg>
